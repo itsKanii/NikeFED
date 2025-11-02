@@ -277,7 +277,7 @@
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="images/mijnhomepagina.jpeg" width="375px" alt="mijn homepagina">
+  <img src="images/mijnhomepagina.png" width="375px" alt="mijn homepagina">
   <img src="images/mijnproductdetailpagina.jpeg" width="375px" alt="mijn product detailpagina">
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -302,12 +302,13 @@
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design
+  2. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
+  3. https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark
+  4. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_overflow/CSS_carousels
+  5. Slides op DLO
+  6. https://flexboxfroggy.com/#nl
+  7. https://cssgrid-generator.netlify.app/
+  8. ChatGPT 
 
 </details>

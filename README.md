@@ -32,7 +32,7 @@
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
@@ -136,20 +136,39 @@
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Kaa Leung Ho
+  - Breakdownschets nakijken
+  - Html structuur controleren of het matcht met breakdownschets
+  - Groenlicht krijgen voor css
+
+  Kaj-Benjamin Sitanala
+  - Breakdownschets controleren voor goedkeuring
+  - html op orde zetten zonder id’s en classes
+  - vragen over inline (nesting) dingen die niet netjes zijn
+
+
+  Lisa Mandemakers
+  - Hoe ga ik de slider op de homepage aanpakken?
+  - Breakdownschets nagaan
+  - De divs / classes op sommige plekken, correct gebruikt of niet?
+  - Kijken of mijn Html semantisch correct is
+  - Css  opzet checken
+  - Ik wil minder gaan nesten en onnodige divs gbruiken, hoe pak ik dit aan
+
+  Robin Yildiz
+  - HTML controleren
+  - CSS controleren
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  SVG > JPEG of andere vormen van afbeeldingen, want het neemt minder bytes in beslag.
+  Daarnaast zijn SVGs eenvoudiger aan te passen bij Light en Dark Mode.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Aria-Label is belangrijk bij Text to Speech (Toegankelijkheid)
+  Span ALLEEN GEBRUIKEN bij repeated links.
+
+  Bij carousel altijd list items gebruiken.
+  
 
 </details>
 

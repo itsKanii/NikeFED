@@ -201,6 +201,8 @@
 
   ### Verslag van meeting
   Hamburgermenu kan je zowel met css als met Javascript gedaan worden - eigen voorkeur.
+  Grid gebruiken bij kaarten en afbeeldingen op de website. Bij tekst gebruik maken van order: 1.
+  
 
 - ...
 
@@ -234,26 +236,34 @@
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had in deze week vooral moeite met position: relative en absolute. Ik had absolute waarden gebruikt, maar het was niet echt responsief-vriendelijk. 
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Kaa Leung Ho
+  - Vragen over position: relative en absoluut
+  - Vragen over responsiveness en hoe kan je dit mooi indelen in css bestand
+  - Vragen over rem en px, en waarom dit belangrijk is voor responsive design.
+  - Vragen over light en dark mode
+  - Vragen over fonts, en hoe je deze kan implementeren
+
+  Kaj-Benjamin Sitanala
+  - Geen opmerkingen
+
+  Lisa Mandemakers
+  - Gaps zijn niet gelijk in grid, mag je in dit geval margins gebruiken? (Sectie 4)
+  - Ik heb alleen een div om een afbeelding gezet die een mask layer heeft (Sectie 8)
+
+  Robin Yildiz
+  - Geen opmerkingen
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  PX schaalt niet mee met de grootte van je browser, in tegenstelling tot REM.
+  Geen absolute kleuren gebruiken. Gebruik kleur - deze kunnen later eenvoudig aangepast worden bij Light en Dark Mode.
+  
+  
 
 </details>
 
@@ -267,19 +277,20 @@
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
+  <img src="images/mijnhomepagina.jpeg" width="375px" alt="mijn homepagina">
+  <img src="images/mijnproductdetailpagina.jpeg" width="375px" alt="mijn product detailpagina">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik ben erg tevreden hoe dit uiteindelijk is geworden. De originele website gebruikt grote tegels en dropdownmenu's voor deze secties.
+  Ik vond het niet zo overzichtelijk, dus heb ik ervoor gekozen om kleinere tegels te gebruiken, en de dropdownmenu's te vervangen met carousels.
+  <img src="images/carousel.jpeg" width="375px" alt="carousel">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Ik ben ook erg trots op het feit dat ik light en dark mode begrijp, en weet dit te implementeren in toekomstige projecten.
+  <img src="images/lightdarkmode.jpeg" width="375px" alt="light en dark mode">
 
+  Ik heb deze code geleerd online, wat erg handig is bij testen van de toegankelijkheid van de website.
+  <img src="images/toegankelijkheidstest.jpeg" width="375px" alt="toegankelijkheidstest">
 
-  ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 

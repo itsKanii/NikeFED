@@ -216,7 +216,11 @@
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  <img src="images/wcag1" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/wcag1.jpeg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/wcag2.jpeg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/wcag3.jpeg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/wcag4.jpeg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/wcag5.jpeg" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 

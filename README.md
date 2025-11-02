@@ -110,13 +110,9 @@
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/breakdownschets1" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="images/breakdownschets2" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
@@ -130,8 +126,7 @@
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Het opzetten van HTML ging vrij redelijk eenvoudig. De breakdownschetsen helpen mij om beter de indeling van content te begrijpen.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -146,7 +141,6 @@
   - html op orde zetten zonder id’s en classes
   - vragen over inline (nesting) dingen die niet netjes zijn
 
-
   Lisa Mandemakers
   - Hoe ga ik de slider op de homepage aanpakken?
   - Breakdownschets nagaan
@@ -159,7 +153,6 @@
   - HTML controleren
   - CSS controleren
 
-
   ### Verslag van meeting
   SVG > JPEG of andere vormen van afbeeldingen, want het neemt minder bytes in beslag.
   Daarnaast zijn SVGs eenvoudiger aan te passen bij Light en Dark Mode.
@@ -169,11 +162,7 @@
 
   Bij carousel altijd list items gebruiken.
   
-
 </details>
-
-
-
 
 
 ## Voortgang 2 (week 3)
@@ -182,25 +171,37 @@
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  In deze week begonnen wij met CSS. Ik had altijd al een beetje moeite met dit onderdeel. Ik heb daarom veel met flexbox en grid lopen     oefenen, zodat ik deze onderdelen eenvoudiger kan implementeren in mijn website.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Kaa Leung Ho
+  - De verbeterde html van de 1e webpagina nakijken;
+  - Flexbox in de eerste en tweede navigatie controleren;
+  - Hero-section controleren;
+  - Hamburger menu: css of javascript?
+  - Vraag bij uitklapbare dropdown menu :hover - hoe uitwerken in javascript?
+
+  Kaj-Benjamin Sitanala
+   - Geen specifieke vragen
+   - HTML controleren
+   - CSS controleren
+
+  Lisa Mandemakers
+  - Hoe pak ik de grid layout aan want er zit een hele kleine schaduw in
+  - Waarom werkt een scrollstate wel op <img> en niet op <li>
+  - Hoe kan ik mijn ticker, smooth maken
+  - Mag je bij onzichtbare tekst: display none doen of visibility hidden?
+
+  Robin Yildiz
+  - Niets specifieks
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Hamburgermenu kan je zowel met css als met Javascript gedaan worden - eigen voorkeur.
 
-  - punt 1
-  - punt 2
-  - nog een punt
 - ...
 
 </details>
@@ -215,7 +216,7 @@
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  <img src="images/wcag1" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
